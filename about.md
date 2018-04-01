@@ -20,7 +20,7 @@ The Institute made an humble beginning in 1938 with setting up of Department of 
 
 ## PRINCIPAL'S DESK
 
-<img src="https://cwitemag.github.io/cwitemag.github.io-main/images/p.jpg" alt="Smiley face" height="150" width="150">
+<img src="https://cwitemag.github.io/cwitemag.github.io-main/images/p.jpg" alt="Smiley face" height="300" width="300">
 
 #### Prof. V.R. Rao
 
@@ -37,7 +37,7 @@ I am sure the thoughts and feelings reflected in the articles will enrich, ennob
 
 ## VICE PRINCIPAL'S DESK
 
-<img src="https://cwitemag.github.io/cwitemag.github.io-main/images/vp1.jpg" alt="Smiley face" height="42" width="150">
+<img src="https://cwitemag.github.io/cwitemag.github.io-main/images/vp1.jpg" alt="Smiley face" height="300" width="300">
 
 #### Prof. D.A. Rajput
 
@@ -45,7 +45,7 @@ It gives me great pleasure to write a few words on the occasion of launching E-M
 ​
 I congratulate team members of E-Magazine for their blistering attempt of completing the task of E-Magazine very effectively. I also congratulate students for their active participation and contribution in this magazine. I am sure that ‘Youth Spectrum’ will be a stepping stone for our students to venture in the future in various fields of arts like photography, poetry, writing, sketching, painting and so on. It will certainly open a new vista for our students in their career as well as life. I remember a great poet Rabindranath Tagore saying “One cannot cross the sea merely by standing and staring at the water”. Similarly, our students and team members of E- Magazine have ventured by developing such a beautiful, thought provoking and entertaining E-Magazine. They have certainly done a good job. I extend my best wishes for this E-Magazine.  
 
-<img src="https://cwitemag.github.io/cwitemag.github.io-main/images/vp2.jpg" alt="Smiley face" height="42" width="150">
+<img src="https://cwitemag.github.io/cwitemag.github.io-main/images/vp2.jpg" alt="Smiley face" height="300" width="300">
 
 #### Prof. A.Y. Devare
 
