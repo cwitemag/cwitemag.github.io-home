@@ -1,11 +1,7 @@
 ---
 layout: page
 title: CWIT E-Magazine
-<<<<<<< HEAD
 description: Creativity at it's epitome
-=======
-description:Creativity at it's epitome
->>>>>>> 8593e6829e1277c6c375b19d5b94be59138c272a
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
